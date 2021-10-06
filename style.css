@@ -1,0 +1,131 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  }
+  
+  h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  p {
+    line-height: 2;
+  }
+
+.top-container{
+    background-color : #E4F9F5;
+    position: relative;     
+    padding-top : 100px;
+    
+}
+
+.develop{
+    text-decoration: underline;
+
+}
+
+.middle-container {
+    margin: 100px 0;
+  }
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left : 300px;
+    bottom : 300px;
+}
+
+.top-cloud{
+    position: relative;
+    left: 200px;
+    margin-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skill-row {
+  width : 50%;
+  margin : 100px auto;
+  text-align: left;
+  line-height : 2;
+}
+
+.code-img{
+  width : 25%;
+  float : left;
+  margin-right : 30px;
+}
+
+.chilli-img {
+  width : 25%;
+  float : right;
+  margin-left : 30px;
+}
+
+.contact-massage {
+  width : 40%;
+  margin : 40px auto 60px;
+}
+
+.btn{
+  margin-top : 50px;
+  padding : 15px 20px;
+  color : white;
+  background-color : rgb(52, 167, 52);
+  display : inline-block;
+  border : solid;
+  border-radius: 10px;
+  opacity : 2;
+}
+
+.btn:hover{
+  background-color: rgba(33, 122, 52, 0.911);
+}
+
+.footer-link{
+  color:#11999E;
+  border : none;
+  margin : 10px 15px
+}
+
+.footer-desc {
+  color : #EAF6F6;
+}
+
+a{
+  text-decoration:none;
+}
+
+a:hover{
+  color : #EAF6F6;
+}
